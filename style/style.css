@@ -2,7 +2,6 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  height: 1000vh;
 }
 
 h1,
@@ -53,10 +52,37 @@ h2 {
 
 .user-3-img {
   border: 3px solid #bdbdbd;
-  border-radius: 100%;
 }
 
 .star {
   color: #e67c40;
   margin: 0px 5px;
+}
+.comment {
+  color: #6c6c6c;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+/* faq section  */
+
+.answer {
+  color: #7e848c;
+}
+
+/* service section  */
+
+.service-icon {
+  color: #e67c40;
+}
+
+/* form  */
+
+.form-button {
+  border: none;
+}
+.form-button:hover,
+.form-button:focus {
+  outline: none;
+  background-color: #e76f51;
 }
