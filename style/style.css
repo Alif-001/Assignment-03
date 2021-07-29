@@ -4,16 +4,35 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+h1,
+h2 {
+  font-weight: 600;
+  font-size: 3rem;
+  line-height: 4.5rem;
+}
+
 /* title section */
 
 .background-color {
   background-color: #264653;
 }
-.big-heading {
-  line-height: 4.5rem;
-}
 
 .big-button {
   background-color: #e76f51;
   border-radius: 5px;
+}
+
+/* fetured bikes section  */
+
+.best-bike-collection {
+  color: #e76f51;
+}
+
+.bike {
+  width: 18rem;
+  margin-top: 7.25rem;
+}
+
+.gray-bike {
+  filter: grayscale(100%);
 }
