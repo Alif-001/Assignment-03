@@ -1,0 +1,19 @@
+/* common styles */
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* title section */
+
+.background-color {
+  background-color: #264653;
+}
+.big-heading {
+  line-height: 4.5rem;
+}
+
+.big-button {
+  background-color: #e76f51;
+  border-radius: 5px;
+}
