@@ -2,6 +2,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  height: 400vh;
 }
 
 h1,
@@ -28,9 +29,12 @@ h2 {
   color: #e76f51;
 }
 
+.bikes {
+  margin-top: 7.15rem;
+}
+
 .bike {
   width: 18rem;
-  margin-top: 7.25rem;
 }
 
 .gray-bike {
