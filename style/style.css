@@ -2,7 +2,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  height: 400vh;
+  height: 1000vh;
 }
 
 h1,
@@ -39,4 +39,24 @@ h2 {
 
 .gray-bike {
   filter: grayscale(100%);
+}
+
+/* happy clients says */
+
+.color-text {
+  color: #e76f51;
+}
+.user-img {
+  width: 10rem;
+  margin: 10px;
+}
+
+.user-3-img {
+  border: 3px solid #bdbdbd;
+  border-radius: 100%;
+}
+
+.star {
+  color: #e67c40;
+  margin: 0px 5px;
 }
